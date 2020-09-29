@@ -1,7 +1,7 @@
 Defines and enforces configurable and adaptive architecture to support multiple concurrent products and markets launches through overlays and manfest structure
-Provide guidelines for development sandboxes, branches, and product stable lines to allow continuous integration of new content and optimization and stabilization of products nearing LEs
-Create and manage downstream product builds
-Establish auto sync with Android partners server for early access
+Provide guidelines for development sandboxes, branches, and product stable lines to allow continuous integration of new content and optimization and stabilization of products nearing LEs that is so important to the global context.
+Create and manage downstream product builds is a good practice.
+Establish auto sync with Android partners server for early access is the state of the art action.
 Manage and integrate QC drops. SSW is managed by the Kernel Team. HLOS and non-HLOS are managed by the platform CM team
 The CM teams uses various tools to manage the software e.g. Jenkins, Gerrit, Artifactory, CM dashboard, Sources search, DAI, APK delta, and OTA builds
 
