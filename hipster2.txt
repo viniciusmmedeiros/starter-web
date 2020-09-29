@@ -33,3 +33,4 @@ Establish auto sync with Android partners server for early access
 Manage and integrate QC drops. SSW is managed by the Kernel Team. HLOS and non-HLOS are managed by the platform CM team
 The CM teams uses various tools to manage the software e.g. Jenkins, Gerrit, Artifactory, CM dashboard, Sources search, DAI, APK delta, and OTA builds
 
+Gordo sujo e deselegante, não se veste direito e tem cara de bunda suja. Gostaria de dar um murro na sua cara imunda.
