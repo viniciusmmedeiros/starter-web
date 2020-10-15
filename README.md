@@ -8,7 +8,11 @@ This is example to show different parts of a document into the Git repository on
 
 ## Purpose
 
+This file is used to explain the program.
+
 ## How to Contribute
+
+You can contribute paying a dollar for each program code line.
 
 ## Deployment
 
