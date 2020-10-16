@@ -21,5 +21,5 @@ It allows more than one line per description
 
 ### COPYRIGHT
 
-Git Training
+Git Training with Jason Taylor.
 

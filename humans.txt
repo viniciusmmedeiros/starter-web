@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antonio Vianinha antonio@gmail.com @ajl
 
 # THANKS
 
