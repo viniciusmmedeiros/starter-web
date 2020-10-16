@@ -17,4 +17,9 @@ You can contribute paying a dollar for each program code line or paying an amoun
 ## Deployment
 
 The deployment process will be described here.
-It allows more than one line per description.
+It allows more than one line per description
+
+### COPYRIGHT
+
+Git Training
+
