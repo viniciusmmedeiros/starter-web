@@ -12,8 +12,9 @@ This file is used to explain the program.
 
 ## How to Contribute
 
-You can contribute paying a dollar for each program code line.
+You can contribute paying a dollar for each program code line or paying an amount of 450 dollars.
 
 ## Deployment
 
-
+The deployment process will be described here.
+It allows more than one line per description.
