@@ -10,6 +10,8 @@
 
     Thank to my teacher.
 
+    Please evaluate the course.
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
