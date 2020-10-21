@@ -24,4 +24,4 @@ It allows more than one line per description
 Git Training with Jason Taylor.
 I will finally finish it.
 
-All rights reserved
+All rights reserved to creator.
